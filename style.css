@@ -1,0 +1,43 @@
+.h2{
+    text-align: center;
+    color: darkorange;
+}
+
+body{
+    background-color: rgb(34, 217, 193);
+}
+
+.app{
+    padding: 30px;
+    width: 400px;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 22px;
+    transition: 0.5s;
+}
+
+.head-img{
+    width: 100px;
+    display: block;
+    margin: auto;
+}
+
+.text, button, .input-img{
+    border: none;
+    outline: none;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px silver;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    background-color: rgba(214, 0, 0, 0.842);
+    color: #fff;
+    font-size: 18px;
+}
+
+butoon:hover{
+    background-color: rgb(53, 55, 172);
+}
